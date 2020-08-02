@@ -29,5 +29,5 @@ client.login("NzM5NTE5Njk4NDcwOTYxMjc4.XybpYw.MIGE8MRLcmcWjRGoVeL9bJ7ln4c")//Thi
 
 // Lets click on Tools and Logs to check if he is ready
 
-//Perfect ! Yet we can invite the bot to server! Follow me to https://discord.com/developers/applications again!
+//Perfect ! Yet we can invite the bot to server! Follow me to https://discord.com/developers/applications again! So your Bot is in your Server! Lets test!
 
